@@ -1,0 +1,11 @@
+:root {
+    --energetic_blue: #1b242f;
+    --light_blue: dodgerblue;
+
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Poppins", sans-serif;
+}
